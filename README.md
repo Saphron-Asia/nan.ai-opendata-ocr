@@ -21,7 +21,7 @@ Alongside our open data initiative, we are also open sourcing a related machine 
 
 ## Resources
 * Documentation: <link>
-* Issue tracking: <link>
+* Issue tracking: <https://github.com/Saphron-Asia/nanai-opendata-ocr/issues>
 * How to contribute data: <link>
 
 ## License
