@@ -45,7 +45,7 @@ Python 3.x
   ```
 4. Pull our open data resources from `saphron-opendata-ocr` bucket:
   ```
-  mc cp <alias-for-opendata>/saphron-opendata-nlp/<object-path> <destination-path-local>
+  mc cp <alias-for-opendata>/saphron-opendata-ocr/<object-path> <destination-path-local>
   i.e.
   mc cp unicef-opendata-pull-data/saphron-opendata-ocr/derived-datasets/test.png test.png
   or you can copy recursively
