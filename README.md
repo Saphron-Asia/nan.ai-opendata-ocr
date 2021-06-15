@@ -3,7 +3,7 @@ NAN.ai OCR open data initiative makes handwritten data publicly available for re
 
 You can participate by (1) handwritten data or (2) annotating existing datasets. We also welcome image processing experts to improve this repository's usability for various use cases.
 
-To explore our datasets, you can use the existing image processing notebooks available [`here`](#code) or import data by following the instructions [`here`] (https://github.com/Saphron-Asia/nan.ai-opendata-ocr/blob/main/HOWTO.md).
+To explore our datasets, you can use the existing image processing notebooks available [`here`](#code) or import data by following the instructions [`here`](https://github.com/Saphron-Asia/nan.ai-opendata-ocr/blob/main/HOWTO.md).
 
 ## Description of the data
 From form images, the image data is isolated, extracted and anonymized to form a generic dataset similar to the MNIST handwritten dataset. This repository is constantly updated to reflect any inputs such as annotations for improvement from the OCR ML service. Users have the discretion on the ratio to split the data to test-train-validate sets.
