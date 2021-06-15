@@ -3,13 +3,18 @@
 This open data repository hosted on AWS S3, currently updated and curated as the project progresses. Currently it contains:
 
 ```
-├─ derived
-│  └─ pre-processing
-└─ eng-fil-corpus
+├─ derived-datasets
+│  └─ autocorrect
+│     ├─ address
+│     ├─ center
+│     ├─ first_name
+│     ├─ last_name
+│     └─ unit
+└─ sorted-images
 ```
 
 ## Running sample notebooks (Apache Zeppelin)
-The notebooks are created using Python in Apache Zeppelin. In case you are still on exploratory mode, these notebooks will help you navigate throughout our data pre-processing, curation, and mini use cases we created to build our machine learning model for the [`nan.ai after-sales chatbot`](https://github.com/Saphron-Asia/nan.ai-ml-nlu).
+The notebooks are created using Python in Apache Zeppelin. In case you are still on exploratory mode, these notebooks will help you navigate throughout our data pre-processing, curation, and mini use cases we created to build our machine learning model for the [`nan.ai ocr`](https://github.com/Saphron-Asia/nan.ai-ml-ocr).
 
 Apache Zeppelin 0.8.2
 Python 3.x
