@@ -23,7 +23,7 @@ Alongside our open data initiative, we are also open sourcing a related machine 
 * [Documentation](link)
 * [Issue tracking](https://github.com/Saphron-Asia/nan.ai-opendata-ocr/issues)
 * [Discussion board](https://github.com/Saphron-Asia/nan.ai-opendata-ocr/discussions)
-* [How to contribute data](https://github.com/Saphron-Asia/nan.ai-opendata-ocr/blob/main/CONTRIBUTE.md) 
+* [How to contribute data](https://github.com/Saphron-Asia/nan.ai-opendata-ocr/blob/main/CONTRIBUTING.md) 
 
 ## License
 Nan.ai-opendata-ocr is licensed under the Creative Commons Zero v1.0 Universal
