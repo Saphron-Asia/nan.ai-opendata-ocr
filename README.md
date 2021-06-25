@@ -20,7 +20,7 @@ Alongside our open data initiative, we are also open sourcing a related machine 
 * [Code of conduct](https://github.com/Saphron-Asia/nan.ai-opendata-ocr/blob/main/CODEOFCODUCT.md)
 
 ## Resources
-* [Documentation](link)
+* [Documentation]
 * [Issue tracking](https://github.com/Saphron-Asia/nan.ai-opendata-ocr/issues)
 * [Discussion board](https://github.com/Saphron-Asia/nan.ai-opendata-ocr/discussions)
 * [How to contribute data](https://github.com/Saphron-Asia/nan.ai-opendata-ocr/blob/main/CONTRIBUTING.md) 
